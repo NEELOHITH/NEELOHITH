@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @NEELOHITH
 - 👀 I’m interested in termux tools 
-- 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me __neelohith-Instagram
-
+- 🌱 I’m currently learning java
 
 <!---
 NEELOHITH/NEELOHITH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
